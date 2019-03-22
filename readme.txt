@@ -1,0 +1,4 @@
+eclipse软件
+mysql驱动程序
+mysql安装并开启服务
+navicat for mysql软件来间接使用mysql
